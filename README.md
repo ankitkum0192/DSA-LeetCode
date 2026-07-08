@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0229-majority-element-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -73,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
