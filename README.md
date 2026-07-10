@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Sorting
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
