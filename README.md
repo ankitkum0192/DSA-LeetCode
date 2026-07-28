@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0451-sort-characters-by-frequency](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1021-remove-outermost-parentheses](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
