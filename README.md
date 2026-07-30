@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0048-rotate-image) |
+| [1903-largest-odd-number-in-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Tree
 |  |
 | ------- |
