@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0704-binary-search) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0048-rotate-image) |
+| [0486-predict-the-winner](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [1903-largest-odd-number-in-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
+| [0486-predict-the-winner](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 ## Linked List
 |  |
 | ------- |
@@ -192,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0796-rotate-string) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
