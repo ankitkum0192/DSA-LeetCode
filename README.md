@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -208,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
