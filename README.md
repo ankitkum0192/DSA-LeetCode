@@ -187,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0100-same-tree) |
+| [3310-remove-methods-from-project](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0100-same-tree) |
+| [3310-remove-methods-from-project](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
