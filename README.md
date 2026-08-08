@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
