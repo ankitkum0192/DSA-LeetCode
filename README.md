@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
