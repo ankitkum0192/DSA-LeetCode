@@ -299,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1510-stone-game-iv) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
