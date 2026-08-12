@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -315,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0620-not-boring-movies) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
