@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1563-stone-game-v) |
 | [1901-find-a-peak-element-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Union-Find
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
