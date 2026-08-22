@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Union-Find
 |  |
 | ------- |
