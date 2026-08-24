@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0486-predict-the-winner) |
+| [1922-count-good-numbers](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1922-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
