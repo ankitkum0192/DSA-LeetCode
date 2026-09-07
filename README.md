@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0242-valid-anagram) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -393,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
