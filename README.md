@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0242-valid-anagram) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1140-stone-game-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0202-happy-number) |
 ## Nim Game
 |  |
 | ------- |
