@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0118-pascals-triangle) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
