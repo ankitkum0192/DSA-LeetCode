@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1563-stone-game-v) |
+| [1672-richest-customer-wealth](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/ankitkum0192/DSA-LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
 |  |
